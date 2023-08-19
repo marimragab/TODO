@@ -1,0 +1,5 @@
+1. Add prompt to confirm before deleting
+2. When adding new todo check if it is already present (local storage)
+3. Make the design responsive more
+4. Find the mistake in items left (must doesn't contain completed one)
+5. Edit the colors on light theme
